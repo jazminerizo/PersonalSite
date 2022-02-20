@@ -67,32 +67,31 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\favicon.ico" />
+    <Content Include="assets\img\about\1.jpg" />
+    <Content Include="assets\img\about\2.jpg" />
+    <Content Include="assets\img\about\3.jpg" />
+    <Content Include="assets\img\about\4.jpg" />
+    <Content Include="assets\img\close-icon.svg" />
+    <Content Include="assets\img\header-bg.jpg" />
+    <Content Include="assets\img\logos\facebook.svg" />
+    <Content Include="assets\img\logos\google.svg" />
+    <Content Include="assets\img\logos\ibm.svg" />
+    <Content Include="assets\img\logos\microsoft.svg" />
+    <Content Include="assets\img\map-image.png" />
+    <Content Include="assets\img\navbar-logo.svg" />
+    <Content Include="assets\img\portfolio\1.jpg" />
+    <Content Include="assets\img\portfolio\2.jpg" />
+    <Content Include="assets\img\portfolio\3.jpg" />
+    <Content Include="assets\img\portfolio\4.jpg" />
+    <Content Include="assets\img\portfolio\5.jpg" />
+    <Content Include="assets\img\portfolio\6.jpg" />
+    <Content Include="assets\img\team\1.jpg" />
+    <Content Include="assets\img\team\2.jpg" />
+    <Content Include="assets\img\team\3.jpg" />
+    <Content Include="css\custom.css" />
     <Content Include="index.html" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\favicon.ico" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\about\1.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\about\2.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\about\3.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\about\4.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\close-icon.svg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\header-bg.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\logos\facebook.svg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\logos\google.svg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\logos\ibm.svg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\logos\microsoft.svg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\map-image.png" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\navbar-logo.svg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\portfolio\1.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\portfolio\2.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\portfolio\3.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\portfolio\4.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\portfolio\5.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\portfolio\6.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\team\1.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\team\2.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\assets\img\team\3.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\css\custom.css" />
-    <Content Include="startbootstrap-agency-gh-pages\index.html" />
-    <Content Include="startbootstrap-agency-gh-pages\js\scripts.js" />
+    <Content Include="js\scripts.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
