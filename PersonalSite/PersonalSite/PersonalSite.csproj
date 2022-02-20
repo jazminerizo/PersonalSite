@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="index.html" />
     <Content Include="startbootstrap-agency-gh-pages\assets\favicon.ico" />
     <Content Include="startbootstrap-agency-gh-pages\assets\img\about\1.jpg" />
     <Content Include="startbootstrap-agency-gh-pages\assets\img\about\2.jpg" />
@@ -89,7 +90,7 @@
     <Content Include="startbootstrap-agency-gh-pages\assets\img\team\1.jpg" />
     <Content Include="startbootstrap-agency-gh-pages\assets\img\team\2.jpg" />
     <Content Include="startbootstrap-agency-gh-pages\assets\img\team\3.jpg" />
-    <Content Include="startbootstrap-agency-gh-pages\css\styles.css" />
+    <Content Include="startbootstrap-agency-gh-pages\css\custom.css" />
     <Content Include="startbootstrap-agency-gh-pages\index.html" />
     <Content Include="startbootstrap-agency-gh-pages\js\scripts.js" />
     <Content Include="Web.config" />
