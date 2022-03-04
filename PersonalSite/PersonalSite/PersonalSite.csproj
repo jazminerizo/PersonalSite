@@ -70,8 +70,10 @@
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\3BB4DD72-80C1-4D9D-81EE-F1CFCF2F125E.jpg" />
     <Content Include="assets\img\apple-touch-icon.png" />
+    <Content Include="assets\img\desk4.jpg" />
     <Content Include="assets\img\favicon.png" />
     <Content Include="assets\img\hero-bg.jpg" />
+    <Content Include="assets\img\IMG_2513.JPG" />
     <Content Include="assets\img\me.jpg" />
     <Content Include="assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="assets\img\portfolio\portfolio-2.jpg" />
