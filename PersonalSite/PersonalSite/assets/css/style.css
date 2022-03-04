@@ -8,6 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #5a656e;
@@ -15,7 +16,7 @@ body {
   
 }
 
-.fa-moon {
+/*.fa-moon {
     color: #f1c40f;
 }
 
@@ -61,7 +62,7 @@ body {
 .btn {
     align-content: center;
     margin: 2em;
-}
+}*/
 
 a {
   color: #d43076;
