@@ -75,6 +75,10 @@
     <Content Include="assets\img\hero-bg.jpg" />
     <Content Include="assets\img\IMG_2513.JPG" />
     <Content Include="assets\img\me.jpg" />
+    <Content Include="assets\img\portfolio\goran-ivos-246271-unsplash.jpg" />
+    <Content Include="assets\img\portfolio\goran-ivos-422398-unsplash.jpg" />
+    <Content Include="assets\img\portfolio\greg-rakozy-129733-unsplash.jpg" />
+    <Content Include="assets\img\portfolio\pankaj-patel-561360-unsplash.jpg" />
     <Content Include="assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="assets\img\portfolio\portfolio-3.jpg" />
